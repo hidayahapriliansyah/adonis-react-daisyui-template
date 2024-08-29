@@ -105,8 +105,3 @@ Daisy UI is a TailwindCSS component library that provides a set of pre-styled co
 ## 🎉 Conclusion
 
 With Adonis JS as the backend framework, Inertia.js for handling SPA functionality, and TailwindCSS with Daisy UI for styling, this setup provides a solid foundation for building modern, scalable, and maintainable web applications. Whether you prefer the quick setup method or a manual step-by-step installation, this guide has you covered. Happy coding! 😊
-```
-
-### Key Updates:
-1. **Quick Setup:** Instructions for cloning the full project directly, which includes everything pre-configured.
-2. **Manual Setup:** Detailed steps for setting up Adonis JS, Inertia, TailwindCSS, and Daisy UI from scratch for those who prefer a more hands-on approach.
