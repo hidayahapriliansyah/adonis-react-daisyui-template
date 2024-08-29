@@ -15,6 +15,12 @@ export default function Home(props: { version: number }) {
       </div>
 
       <button className="bg-blue-500">Button</button>
+
+      <div className="flex flex-col justify-center items-center gap-4 p-8 m-8 w-full max-w-sm border border-gray-200 rounded-md">
+        <span>Daisy UI Button</span>
+
+        <button className="btn">Button</button>
+      </div>
     </>
   )
 }
