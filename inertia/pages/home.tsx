@@ -13,6 +13,8 @@ export default function Home(props: { version: number }) {
           <a href="https://docs.adonisjs.com/guides/inertia">AdonisJS documentation</a>.
         </span>
       </div>
+
+      <button className="bg-blue-500">Button</button>
     </>
   )
 }
